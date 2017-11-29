@@ -28,6 +28,7 @@ public class JavaTest {
           */
          System.out.println("Question 1 - 1 Mark");
          System.out.println("Dylan Sprague-I'm going to do great on this test");
+         System.out.println();
          
          
          /**
@@ -43,6 +44,7 @@ public class JavaTest {
          double Tax = meal*0.13;
          double total = meal+Tip+Tax;
          System.out.printf("The cost of the meal is $%.2f, the tip is $%.2f, the tax is $%.2f, and the overall total is $%.2f.", meal, Tip, Tax, total);
+         System.out.println();
          
          
          
